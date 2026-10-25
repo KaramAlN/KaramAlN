@@ -41,7 +41,7 @@ A selection of application projects and programming exercises available on this 
 | :--- | :--- |
 | [**Space Apps Jordan 2026**](https://github.com/KaramAlN/space-apps-jordan-2026) | Event registration website with a Node.js/Express backend, SQLite storage, and an admin dashboard. |
 | [**Personal Portfolio**](https://github.com/KaramAlN/personl-web) | A personal website project with React, TypeScript, and a space-inspired interface. |
-| [**Skyscraper Puzzle**](https://github.com/KaramAlN/sky-scraper/tree/main/ex00) | A C puzzle-solving exercise with constraint checks and a Makefile. |
+| [**Skyscraper Puzzle**](https://github.com/KaramAlN/sky-scraper/tree/main/ex00) | A learning fork of [AhmadAL-Quraan’s C puzzle solver](https://github.com/AhmadAL-Quraan/sky-scraper), with constraint checks and a Makefile. |
 | [**Stack Implementation**](https://github.com/KaramAlN/Stack-implementation) | A Java learning exercise implementing an array-based stack. |
 
 ## Beyond the repositories

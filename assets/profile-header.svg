@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Karam Al-Yousef — AI, software and community</title><desc id="desc">Artificial Intelligence student from Jordan. Build useful software. Learn by doing. Bring people together.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#132b3b"/></linearGradient><linearGradient id="accent"><stop stop-color="#4ddac8"/><stop offset="1" stop-color="#86a8ff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a4c8de" stroke-opacity=".055"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+<rect x="48" y="52" width="48" height="4" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="48" y="92" fill="#66d8cc" font-size="14" letter-spacing="4">AI · SOFTWARE · COMMUNITY</text>
+<text x="45" y="159" fill="#f1f5fa" font-size="53" font-weight="700">Karam Al-Yousef</text>
+<text x="48" y="201" fill="#b9cadb" font-size="20">Build useful software. Learn by doing. Bring people together.</text>
+<text x="48" y="266" fill="#8da6bd" font-size="15" letter-spacing="1">ARTIFICIAL INTELLIGENCE STUDENT / JORDAN</text></g>
+<g fill="none" stroke="url(#accent)"><circle cx="1040" cy="160" r="101" opacity=".18"/><circle cx="1040" cy="160" r="73" opacity=".35"/><path d="M970 160l38-43 40 72 35-71 32 42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><g fill="#62d6cc"><circle cx="970" cy="160" r="5"/><circle cx="1008" cy="117" r="5"/><circle cx="1048" cy="189" r="5"/><circle cx="1083" cy="118" r="5"/><circle cx="1115" cy="160" r="5"/></g></svg>
